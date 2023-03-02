@@ -1,0 +1,22 @@
+#goldenWind{
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+}
+
+#heading{
+    background-color: orange;
+    color: blanchedalmond;
+}
+
+.copy_right_footer{
+    background-color: chartreuse;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+#para{
+    color: black;
+    font-size: 15px;
+}
